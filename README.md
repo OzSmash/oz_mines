@@ -1,5 +1,7 @@
 A work in progress for a change detection project on mining. Adding links as I go.
 
+Also see [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection), but some of the dataset links are dead. I am trying to test each dataset link below.
+
 **Binary Change Detection (BCD)**
 |Dataset   | \#Patches | Scenario  | Location         | Sensor       | Resolution | 
 | :---:   | :---:   | :---:   | :---:   | :---:  | :---:  |
@@ -19,4 +21,4 @@ A work in progress for a change detection project on mining. Adding links as I g
 |[SECOND](https://captain-whu.github.io/SCD/)  |    4662   |  Urban: non-vegetated ground surface, tree, low vegetation, water, buildings and playgrounds  | China | Various     | ?     |
 |[HRSCD](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)  | 291      | Urban: Artificial surfaces, Agricultural, Forests, Wetlands, Water  | China            | ? | 0.5m   |
 
-Table adapted from [MineNetCD](https://github.com/AI4RS/MineNetCD)
+Table adapted from [MineNet - UCD](https://github.com/AI4RS/UCD)
