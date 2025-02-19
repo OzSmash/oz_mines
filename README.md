@@ -7,5 +7,6 @@
 |[SYSU-CD](https://github.com/liumency/SYSU-CD)   | 20000     | Urban: Roads, Construction, Vegetation disturbance     | Hong Kong | Aerial Image      | 0.5m       | 
 |[MineNetCD](https://github.com/AI4RS/MineNetCD)| 71711     | Mining    | Global           | Google Earth | 1.2m       |
 |[DSIFN](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)| 3600     | Urbanisation/Landclearing    | China           | Google Earth | 2m       |
+|[Ordos Open Mine CD](https://figshare.com/s/b1ce4f777ee08ef8fae8)|     13000 | Open Pit Coal Mine   | China           | Gaofen-1/-6 | 4m       |
 
 Table adapted from [MineNetCD](https://github.com/AI4RS/MineNetCD
