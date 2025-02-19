@@ -13,7 +13,7 @@ A work in progress for a change detection project on mining. Adding links as I g
 |[SYSU-CD](https://github.com/liumency/SYSU-CD)   | 20000     | Urban: Roads, Construction, Vegetation disturbance     | Hong Kong | Aerial Image      | 0.5m       | 
 
 -
-**Semantic Change Detection (BCD)**
+**Semantic Change Detection (SCD)**
 |Dataset   | \#Patches | Scenario  | Location         | Sensor       | Resolution | 
 | :---:   | :---:   | :---:   | :---:   | :---:  | :---:  |
 |[SECOND](https://captain-whu.github.io/SCD/)  |    4662   |  Urban: non-vegetated ground surface, tree, low vegetation, water, buildings and playgrounds  | China | Various     | ?     |
